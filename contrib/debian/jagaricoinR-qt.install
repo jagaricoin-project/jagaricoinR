@@ -1,0 +1,6 @@
+usr/local/bin/jagaricoinR-qt usr/bin
+share/pixmaps/jagaricoinR32.xpm usr/share/pixmaps
+share/pixmaps/jagaricoinR16.xpm usr/share/pixmaps
+share/pixmaps/jagaricoinR128.png usr/share/pixmaps
+debian/jagaricoinR-qt.desktop usr/share/applications
+debian/jagaricoinR-qt.protocol usr/share/kde4/services/

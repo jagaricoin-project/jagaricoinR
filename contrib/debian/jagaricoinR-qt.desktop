@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=JagariCoinR Core
+Comment=Connect to the JagariCoinR P2P Network
+Comment[de]=Verbinde mit dem JagariCoinR peer-to-peer Netzwerk
+Comment[fr]=JagariCoinR, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=JagariCoinR, eşten eşe kriptografik sanal para birimi
+Exec=jagaricoinR-qt %u
+Terminal=false
+Type=Application
+Icon=jagaricoinR128
+MimeType=x-scheme-handler/jagaricoinR;
+Categories=Office;Finance;
