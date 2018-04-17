@@ -889,7 +889,8 @@ std::string CopyrightHolders(const std::string& strPrefix)
     unsigned short nCopyrightYear = boost::posix_time::second_clock::local_time().date().year();
     std::string strCopyrightHolders;
     strCopyrightHolders += "\n" + strprintf(strPrefix, 2009, nCopyrightYear) + " The Bitcoin Core developers";
-    strCopyrightHolders += "\n" + strprintf(strPrefix, 2014, nCopyrightYear) + " The JagariCoinR Core developers";
+    strCopyrightHolders += "\n" + strprintf(strPrefix, 2014, nCopyrightYear) + " The BitZeny Core developers";
+    strCopyrightHolders += "\n" + strprintf(strPrefix, 2018, nCopyrightYear) + " The JagariCoinR Core developers";
     return strCopyrightHolders;
 }
 

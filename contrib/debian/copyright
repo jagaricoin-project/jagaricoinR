@@ -4,7 +4,7 @@ Upstream-Contact: onokatio <onokatio@gmail.com>
 Source: https://github.com/jagaricoin-project/jagaricoinR
 
 Files: *
-Copyright: 2009-2017, Bitcoin Core Developers & 2018, JagariCoinR Core Developers
+Copyright: 2009-2017, Bitcoin Core Developers & 2018, BitZeny Core Developers & 2018, JagariCoinR Core Developers
 License: Expat
 Comment: The JagariCoinR Core Developers encompasses the current developers listed on jagaricoin.tk,
          as well as the numerous contributors to the project.
@@ -12,6 +12,7 @@ Comment: The JagariCoinR Core Developers encompasses the current developers list
 Files: debian/*
 Copyright: 2010-2011, Jonas Smedegaard <dr@jones.dk>
            2011, Matt Corallo <matt@bluematt.me>
+					 2018, 2018, BitZeny Core Developers
 					 2018, 2018, JagariCoinR Core Developers
 License: GPL-2+
 
